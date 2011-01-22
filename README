@@ -1,0 +1,4 @@
+Pystock is about to be an application which communicate with
+lib-finance in order to tell you about your stocks.
+It will also maintain your portfolio in order to tells you 
+about wins an losses, actual and past.
